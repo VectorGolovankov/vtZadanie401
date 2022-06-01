@@ -21,6 +21,11 @@
 		<UsualGroup name="Группа1" id="6">
 			<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="7"/>
 		</UsualGroup>
+		<InputField name="Реквизит1ВЕткиМастер" id="98">
+			<DataPath>Объект.Реквизит1ВЕткиМастер</DataPath>
+			<ContextMenu name="Реквизит1ВЕткиМастерКонтекстноеМеню" id="99"/>
+			<ExtendedTooltip name="Реквизит1ВЕткиМастерРасширеннаяПодсказка" id="100"/>
+		</InputField>
 		<InputField name="СтрокаШтрафа" id="1">
 			<DataPath>СтрокаШтрафа</DataPath>
 			<DefaultItem>true</DefaultItem>
